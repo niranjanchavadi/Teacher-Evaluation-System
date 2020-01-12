@@ -1,0 +1,7 @@
+TEACHER EVALUATION FORM It performs the following functions. 
+1. Check for authorized Students and Administrator. 
+2. In student login, student evaluates all his/her teachers against his/her courses. 
+3. There is no limit on Student’s courses. 
+4. In administration page, administrator can check the GPA of teacher evaluated by students. 
+See the students who did evaluation and those who did not Send an e-mail to teachers to tell them their GPA. 
+Send e-mail to those who did not do evaluation. 
